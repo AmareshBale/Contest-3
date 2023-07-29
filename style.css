@@ -1,0 +1,46 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.spacebtn {
+    
+}
+nav {
+    padding: 20px 20px ;
+}
+image {
+    display: flex;
+    background-color: aquamarine;
+
+}
+.hw {
+    display: flex;
+    position: relative;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+}
+.abc {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.xyz {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.acc {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
